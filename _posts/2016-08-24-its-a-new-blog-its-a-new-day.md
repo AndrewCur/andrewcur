@@ -1,7 +1,4 @@
 ---
-published: false
----
----
 layout: post
 title:  "It's a New Blog, It's a New Day"
 date:   2016-08-24 16:49:00 +0000
