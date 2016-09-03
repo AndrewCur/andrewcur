@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 date: '2016-09-03 14:37:23 +0000'
 categories: jekyll update
