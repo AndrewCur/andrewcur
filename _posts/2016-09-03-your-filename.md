@@ -1,5 +1,8 @@
 ---
 published: false
+layout: post
+date: '2016-09-03 14:37:23 +0000'
+categories: jekyll update
 ---
 ## It's A Perfect Duluth Day
 
