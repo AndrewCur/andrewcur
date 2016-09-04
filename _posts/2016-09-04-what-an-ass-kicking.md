@@ -1,5 +1,8 @@
 ---
-published: false
+published: true
+layout: post
+date: '2016-09-04 17:53:23 +0000'
+categories: jekyll update
 ---
 ## What An Ass Kicking
 
