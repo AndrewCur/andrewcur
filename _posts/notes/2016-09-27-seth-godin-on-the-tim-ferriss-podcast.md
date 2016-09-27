@@ -7,8 +7,9 @@ published: false
 
 
 - ***Education*** as we know it in the United States was started and designed for the industrial age of manufacturing that wanted obedient, to-the-mark factory workers and other varieties of subordinates. This is on the way out. 
-- The two elements most valuable in our current, post-industrial economy that are not being taught are how to *solve interesting problems* and *learn things that cannot be taught or shown*
+- The two elements most valuable in our current, post-industrial economy that are not being taught are how to *solve interesting problems* and *learn things that cannot be taught or shown.*
 - Ways that we can change the education of young people would be to encourage them to explore and learn only what they're interested in. A point that Seth makes is "enrollment". He clarifies the definition of enrollment to be an active, present state of contribution. **Look this up and learn.**
+
 
 
 - ***Your brand*** is the story of you. It's implicit and ever-present as the presentation of yourself. 
