@@ -25,7 +25,7 @@ In no particular order:
 
 ### The Firing Squad
 
-Marc Andreessen (of Netscape fame) runs his investing company by allowing any investor be able to propose and green-light individually. The caveat is they must face the firing squad of colleagues that are charged  to criticize without mercy. If the investor still feels it's a good call, they have full autonomy to make the investment.
+Marc Andreessen (of Netscape fame) runs his investing company by allowing any investor be able to propose and green-light individually. The caveat is they must face the firing squad of colleagues that are charged  to criticize without mercy, even if they already like it going in. If the investor still feels it's a good call, they have full autonomy to make the investment.
 
 <http://fourhourworkweek.com/2016/05/29/marc-andreessen/>
 
